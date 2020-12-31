@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages !!!!
+## Welcome to GitHub Pages !!!!!
 
 You can use the [editor on GitHub <i class="fas fa-external-link-alt"></i>](https://github.com/hiryamada/sitetest/edit/gh-pages/index.md){:target="_blank" rel="noopener"} to maintain and preview the content for your website in Markdown files.
 
